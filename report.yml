@@ -10,6 +10,7 @@ grade:
 
   - subject: Math
 
+<<<<<<< HEAD
     grade: Y
 
   - subject: English
@@ -19,3 +20,14 @@ grade:
   - subject: Science
 
     grade: Y
+=======
+    grade: Z
+
+  - subject: English
+
+    grade: Z
+
+  - subject: Science
+
+    grade: Z
+>>>>>>> c768c955c611982e8e3e601ebafd8302cb0141bb
