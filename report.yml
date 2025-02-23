@@ -10,12 +10,12 @@ grade:
 
   - subject: Math
 
-    grade: B
+    grade: X
 
   - subject: English
 
-    grade: B
+    grade: X
 
   - subject: Science
 
-    grade: B
+    grade: X
